@@ -1,5 +1,6 @@
 sudo: required
 dist: xenial
+arch: arm64
 language: python
 matrix:
   include:
